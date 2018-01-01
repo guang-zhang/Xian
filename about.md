@@ -46,7 +46,7 @@ B.Sc. in Information and Computing Science, School of Mathematics and Computer S
 ----------
 
 ## Conferences, workshops, seminars 
-###(*Research Presentations*)
+### (*Research Presentations*)
 
 #### 2017
 
