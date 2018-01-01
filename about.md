@@ -93,7 +93,7 @@ Title: "Component-wise proportional solutions for communication graph games"
 
 - Gao J, Wu D, **Zhang G**. 2014. Generic stability of equilibrium for n-person non-cooperative games under uncertainty, *Communication on Applied Mathematics & Computation*, 28(3): 336-342. 
 
-- **Zhang G**, Wu D, Tang J. 2015. The one-leader-followers games under uncertainty and the stability analysis of ε-equilibrium, **Operations Research and Management Science**, accepted. 
+- **Zhang G**, Wu D, Tang J. 2015. The one-leader-followers games under uncertainty and the stability analysis of ε-equilibrium, *Operations Research and Management Science*, accepted. 
 
 #### Working papers
 
