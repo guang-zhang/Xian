@@ -5,9 +5,9 @@ active: about
 ---
 # About
 
-I am a PhD candidate in **Economics** at the **Departement of Econometrics & Operations Research** in **Tilburg University** working under the supervision of Prof. Dolf Talman and Dr. Anna Khemlnitskaya.
+I am a PhD candidate in Economics at the Departement of Econometrics & Operations Research in Tilburg University working under the supervision of Prof. Dolf Talman and Dr. Anna Khemlnitskaya.
 
-At the same time, I am also a PhD candidate in **Management Science and Engneering** at the **School of Mangement** in **Shanghai University** working under the supervision of Prof. Erfang Shan (单而芳).
+At the same time, I am also a PhD candidate in Management Science and Engneering at the School of Mangement in Shanghai University working under the supervision of Prof. Erfang Shan (单而芳).
 
 ----------
 
