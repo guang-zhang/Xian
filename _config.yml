@@ -1,7 +1,7 @@
 title: Guang Zhang   # your title
-author: Guang Zhang # your name
-description: My homepage # your description
-avatar: /images/avatar01.png # change avatar
+author: Guang Zhang  # your name
+description: My homepage  # your description
+avatar: /images/avatar01.png  # change avatar
 
 # Build Settings
 markdown: kramdown
