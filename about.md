@@ -3,7 +3,7 @@ layout: post
 title: Vita
 active: about
 ---
-# About
+## About
 
 I am a PhD candidate in Economics at the Departement of Econometrics & Operations Research in Tilburg University working under the supervision of Prof. Dolf Talman and Dr. Anna Khemlnitskaya.
 
@@ -11,15 +11,15 @@ At the same time, I am also a PhD candidate in Management Science and Engneering
 
 ----------
 
-# Research fields
+## Research fields
 
-#### Cooperative games with limited cooperation
+**Cooperative games with limited cooperation**
 
-#### Non-cooperative games
+**Non-cooperative games**
 
 ----------
 
-# Education
+## Education
 
 - **Tilburg University**, Tilburg, The Netherlands (2017 -- expected: Sept. 2018) 
 
@@ -45,10 +45,10 @@ B.Sc. in Information and Computing Science, School of Mathematics and Computer S
 
 ----------
 
-# Conferences, workshops, seminars 
-##(*Research Presentations*)
+## Conferences, workshops, seminars 
+###(*Research Presentations*)
 
-### 2017
+#### 2017
 
 - **Axiomatizations in Game Theory**, University of Pécs, Pécs, Hungary (Sept. 1-2)
 
@@ -62,7 +62,7 @@ Title: "The degree value for games with communication structure"
 
 Title:"The degree value for games with communication structure"
 
-### 2016
+#### 2016
 
 - **Yangtze River Delta Academic Forum of Operational Research and Cybernetics 2016**,
 East China University of Science and Technology, Shanghai, China.
@@ -72,16 +72,16 @@ Title: "Component-wise proportional solutions for communication graph games"
 
 ----------
 
-# Publications
+## Publications
 
-### Journal Publications in English
+#### Journal Publications in English
 
 - **Zhang G**, Shan E, Kang L, Dong Y. 2017. Two efficient values of cooperative games with graph structure based on $\tau$-values, *Journal of Combinatorial Optimization*, 34: 462-482. 
 
 - Shan E, **Zhang G**, Dong Y. 2016. Component-wise proportional solutions for communication graph games, *Mathematical Social Sciences*, 82: 22-28.
 
 
-### Journal Publications in Chinese
+#### Journal Publications in Chinese
 
 - Shan E, **Zhang G**. 2017. Weighted permission component fairness and permission tree restricted core of permission tree games, *Systems Engineering-Theory & Practice*, 37(7): 1752-1760. 
 
@@ -95,7 +95,7 @@ Title: "Component-wise proportional solutions for communication graph games"
 
 - **Zhang G**, Wu D, Tang J. 2015. The one-leader-followers games under uncertainty and the stability analysis of ε-equilibrium, **Operations Research and Management Science**, accepted. 
 
-### Working papers
+#### Working papers
 
 - **Zhang G**, Shan E, Wang G. 2016. The degree value for games with communication structures, *International Journal of Game Theory*, revised and resubmitted. 
 
